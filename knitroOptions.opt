@@ -1,0 +1,5 @@
+hessopt 4
+outlev 4
+algorithm 2
+maxit 200
+honorbnds 0
